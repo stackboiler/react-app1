@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div style={{textAlign:'center', width:'100vw'}}>
-      <h1>Konnect with Ahsan</h1>
+      <h1>Konnect with Sam</h1>
       <Routers />
     </div>
   )
