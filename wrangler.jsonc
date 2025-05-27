@@ -1,0 +1,7 @@
+{
+    "name": "react-worker2",
+    "compatibility_date": "2025-05-09",
+    "assets": {
+      "directory": "./build"
+    }
+  }
